@@ -1,2 +1,3 @@
 some other text
 another feature from master branch
+feature3
